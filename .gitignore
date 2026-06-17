@@ -1,0 +1,4 @@
+# Keep large video masters out (Pages 100MB/file limit). 720p IS committed.
+walkthrough.mp4
+*.mov
+*.m4a
